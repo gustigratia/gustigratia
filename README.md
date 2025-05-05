@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gusti</h1>
-<h3 align="center">Just a newbie programmer</h3>
+<h3 align="center">Second year Information Systems student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustigratia&label=Profile%20views&color=0e75b6&style=flat" alt="gustigratia" /> </p>
 
