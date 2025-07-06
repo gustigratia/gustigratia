@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Gusti</h1>
 <h3 align="center">Second year Information Systems student</h3>
-
+<p>Passionate about technology and always eager to learn, I enjoy building things with code and exploring areas like data science, software engineering, and emerging technologies. I thrive in collaborative environments, love solving complex problems, and continuously seek opportunities to grow as a developer. Adaptable and fast-learning, I stay up-to-date with the latest tech trends and enjoy contributing to projects that make a meaningful impact. </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gustigratia&label=Profile%20views&color=0e75b6&style=flat" alt="gustigratia" /> </p>
 
 <h3 align="left">Connect with me:</h3>
